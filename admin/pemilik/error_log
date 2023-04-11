@@ -1,0 +1,25 @@
+[09-Aug-2022 20:48:22 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 2
+[09-Aug-2022 20:48:22 Asia/Jakarta] PHP Notice:  Undefined variable: statusDashboard in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 170
+[09-Aug-2022 20:48:22 Asia/Jakarta] PHP Notice:  Undefined variable: statuslaporanPenyewaan in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 182
+[09-Aug-2022 20:48:22 Asia/Jakarta] PHP Notice:  Undefined variable: statusPengembalian in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 194
+[09-Aug-2022 20:48:22 Asia/Jakarta] PHP Notice:  Undefined variable: statuslaporanPengembalian in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 194
+[09-Aug-2022 20:48:22 Asia/Jakarta] PHP Notice:  Undefined variable: statusPengembalian in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 201
+[09-Aug-2022 20:48:22 Asia/Jakarta] PHP Notice:  Undefined variable: statusPengadaan in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 206
+[09-Aug-2022 20:48:22 Asia/Jakarta] PHP Notice:  Undefined variable: statuslaporanPengadaan in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 206
+[09-Aug-2022 20:48:22 Asia/Jakarta] PHP Notice:  Undefined variable: statusPengadaan in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 213
+[09-Aug-2022 20:48:22 Asia/Jakarta] PHP Notice:  Undefined variable: statusNotaPengadaan in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 214
+[09-Aug-2022 20:48:22 Asia/Jakarta] PHP Notice:  Undefined variable: statuslaporanPengadaan in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 215
+[09-Aug-2022 20:48:22 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/swastami/public_html/admin/pemilik/assets/layout/topbar.php on line 201
+[09-Aug-2022 20:48:28 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 2
+[09-Aug-2022 20:48:28 Asia/Jakarta] PHP Notice:  Undefined variable: statusPenyewaan in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 182
+[09-Aug-2022 20:48:28 Asia/Jakarta] PHP Notice:  Undefined variable: statuslaporanPenyewaan in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 182
+[09-Aug-2022 20:48:28 Asia/Jakarta] PHP Notice:  Undefined variable: statusPenyewaan in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 189
+[09-Aug-2022 20:48:28 Asia/Jakarta] PHP Notice:  Undefined variable: statusPengembalian in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 194
+[09-Aug-2022 20:48:28 Asia/Jakarta] PHP Notice:  Undefined variable: statuslaporanPengembalian in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 194
+[09-Aug-2022 20:48:28 Asia/Jakarta] PHP Notice:  Undefined variable: statusPengembalian in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 201
+[09-Aug-2022 20:48:28 Asia/Jakarta] PHP Notice:  Undefined variable: statusPengadaan in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 206
+[09-Aug-2022 20:48:28 Asia/Jakarta] PHP Notice:  Undefined variable: statuslaporanPengadaan in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 206
+[09-Aug-2022 20:48:28 Asia/Jakarta] PHP Notice:  Undefined variable: statusPengadaan in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 213
+[09-Aug-2022 20:48:28 Asia/Jakarta] PHP Notice:  Undefined variable: statusNotaPengadaan in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 214
+[09-Aug-2022 20:48:28 Asia/Jakarta] PHP Notice:  Undefined variable: statuslaporanPengadaan in /home/swastami/public_html/admin/pemilik/assets/layout/sidebar1.php on line 215
+[09-Aug-2022 20:48:28 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/swastami/public_html/admin/pemilik/assets/layout/topbar.php on line 201
