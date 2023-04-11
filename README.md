@@ -8,3 +8,10 @@ Sebuah aplikasi berbasis web yang bertujuan untuk memudahkan para konsumen Swast
 ![image](https://user-images.githubusercontent.com/82116158/231135549-25c94590-6a94-45b3-b237-fa2cec71ef5c.png)
 - Form Booking Online
 ![image](https://user-images.githubusercontent.com/82116158/231136150-069b862d-bf3f-48f8-8ee6-5c2726f25c51.png)
+
+# Teknologi
+- PHP
+- CSS
+- Javascript
+- HTML
+- Bootstrap
